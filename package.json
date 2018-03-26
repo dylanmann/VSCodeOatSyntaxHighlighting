@@ -1,0 +1,26 @@
+{
+    "name": "oat",
+    "displayName": "OAT Syntax Highlighting",
+    "description": "Syntax Support for Penn CIS341 OAT language",
+    "version": "0.0.1",
+    "publisher": "Dylan Mann",
+    "engines": {
+        "vscode": "^1.21.0"
+    },
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [{
+            "id": "oat",
+            "aliases": ["Oat", "oat"],
+            "extensions": [".at",".oat"],
+            "configuration": "./language-configuration.json"
+        }],
+        "grammars": [{
+            "language": "oat",
+            "scopeName": "source.oat",
+            "path": "./syntaxes/oat.tmLanguage"
+        }]
+    }
+}
