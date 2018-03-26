@@ -2,7 +2,7 @@
 
 ## Features
 
-![screenshot](/syntax.png)
+![screenshot](/screenshot.png)
 
 Basic syntax highlighting support for keywords, functions, types, arguments, etc. for the OAT language developed for CIS341 at the University of Pennsylvania.
 
