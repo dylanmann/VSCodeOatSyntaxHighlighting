@@ -3,13 +3,17 @@
     "displayName": "OAT Syntax Highlighting",
     "description": "Syntax Support for Penn CIS341 OAT language",
     "version": "0.0.1",
-    "publisher": "Dylan Mann",
+    "publisher": "dylanmann",
     "engines": {
         "vscode": "^1.21.0"
     },
     "categories": [
         "Languages"
     ],
+    "repository": {
+        "type": "git",
+        "url":"https://github.com/dylanmann/VSCodeOatSyntaxHighlighting"
+    },
     "contributes": {
         "languages": [{
             "id": "oat",

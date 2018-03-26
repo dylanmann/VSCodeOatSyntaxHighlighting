@@ -2,15 +2,13 @@
 
 ## Features
 
+![screenshot](/syntax.png)
+
 Basic syntax highlighting support for keywords, functions, types, arguments, etc. for the OAT language developed for CIS341 at the University of Pennsylvania.
-
-## Extension Settings
-
-There are no settings to configure, take it or leave it.
 
 ## Known Issues
 
-It doesn't work that well.
+It gets the job done, but you can report issues if you find them.
 
 ## Release Notes
 
