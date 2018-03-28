@@ -2,7 +2,7 @@
     "name": "oat",
     "displayName": "OAT Syntax Highlighting",
     "description": "Syntax Support for Penn CIS341 OAT language",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "dylanmann",
     "engines": {
         "vscode": "^1.21.0"
