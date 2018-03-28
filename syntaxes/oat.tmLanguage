@@ -12,19 +12,11 @@
   <array>
     <dict>
         <key>begin</key>
-        <string>/\*</string>
-        <key>captures</key>
-        <dict>
-            <key>0</key>
-            <dict>
-                <key>name</key>
-                <string>punctuation.definition.comment.oat</string>
-            </dict>
-        </dict>
+        <string>\s*/\*</string>
         <key>end</key>
         <string>\*/</string>
         <key>name</key>
-        <string>comment.block.oat</string>
+        <string>comment.oat</string>
     </dict>
     <dict>
       <key>begin</key>
